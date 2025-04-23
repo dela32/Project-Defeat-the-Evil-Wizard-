@@ -1,4 +1,4 @@
-## 🧙 Battle of Legends - Text-Based Fantasy Combat Game
+## 🧙 Defeat the Evil Wizard - Text-Based Fantasy Combat Game
 Welcome to Battle of Legends, a simple text-based RPG-style combat game written in Python. Choose your hero, fight the evil wizard, and test your battle strategy!
 
 ## 🕹️ Features
